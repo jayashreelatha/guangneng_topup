@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_dialog"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:background="#e8e8e8"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_dialog_conf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/topup_confirmation" />
+
+    <TextView
+        android:id="@+id/tv_conf_info1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/topup_msg1" />
+
+    <TextView
+        android:id="@+id/tv_conf_info2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/topup_success_info" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/bt_dialog_cancel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/shape"
+            android:text="@string/topup_tag_cancel"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/bt_dialog_ok"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/shape"
+            android:text="@string/topup_tag_ok"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+</LinearLayout>

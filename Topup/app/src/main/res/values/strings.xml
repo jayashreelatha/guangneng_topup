@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Topup</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Top up -->
+    <string name="topup">Top up</string>
+    <string name="topup_info">Input mobile number to\nTopUp and choose eTopUp\nor eVoucher</string>
+    <string name="topup_tag_number">Mobile number:</string>
+    <string name="topup_tag_denomination">Denomination:</string>
+    <string name="topup_tag_etopup">eTopUp</string>
+    <string name="topup_tag_evoucher">eVoucher</string>
+    <string name="topup_tag_account">My\nAccount</string>
+    <string name="topup_tag_transaction">Transaction\nhistory</string>
+    <string name="topup_tag">Top\nUp</string>
+    <string name="topup_confirmation">Confirmation</string>
+    <string name="topup_msg1">You have selected</string>
+    <string name="topup_msg2">\neTopup to mobile number\n</string>
+    <string name="topup_confrim">TopUp value will be\ndeducted from your account.</string>
+    <string name="topup_tag_cancel">Cancel</string>
+    <string name="topup_tag_ok">OK</string>
+    <string name="topup_success">Your tipup is successful!</string>
+    <string name="topup_success_info">topup has been added to\nmobile number</string>
+    <string name="topup_tag_done">Done</string>
+    <string name="topup_tag_anothertopup">AnotherTopup</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
