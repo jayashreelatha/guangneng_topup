@@ -1,5 +1,5 @@
-½ÓÏÂÀ´¸øÄã×Ô¼ºµÄÏîÄ¿´´½¨Ò»¸ö»ù±¾µÄ Readme ÎÄ¼þ°É.
-ÏêÏ¸²Ù×÷¹ý³ÌÈçÏÂ:
+æŽ¥ä¸‹æ¥ç»™ä½ è‡ªå·±çš„é¡¹ç›®åˆ›å»ºä¸€ä¸ªåŸºæœ¬çš„ Readme æ–‡ä»¶å§.
+è¯¦ç»†æ“ä½œè¿‡ç¨‹å¦‚ä¸‹:
 Global setup:
 Download and install Git
 git config --global user.name "banxi1988"
@@ -45,31 +45,31 @@ To git@github.com:banxi1988/tasteHibernate.git
 master -> master
 Branch master set up to track remote branch master from origin.
 banxi1988@banxi:~/github/tasteHibernate$
-¹ØÓÚ Git µÄÃüÁîÇë²Î¼û Git ÊÖ²á.
-ÏÖÔÚÎÒÃÇÒÑ¾­¿ÉÒÔ´´½¨ÁËÒ»¸ö¿âÁË.´´½¨ÁËÒ»¸öÎÄ¼þ,²¢ÇÒÌá½»ÁË.²¢ÇÒ°ÑËüÍÆÏòÁË github.
-½ÓÏÂÀ´ÎÒÃÇ½«×öÊ²Ã´ÄØ?
-µÚÈý½Ú: Fork A Repo
-ÓÐÐ©Ê±ºòÄã·¢ÏÖ×Ô¼ºÏëÒªÎª±ðÈËµÄÏîÄ¿×ö¹±Ï×.»òÕßÏ£ÍûÀ´Ê¹ÓÃ±ðÈËµÄÏîÄ¿×öÎª×Ô¼ºµÄÆðµã.Ò²¾Í³Æ
-Ö®Îª Fork.
-1. Fork Ò»¸öÏîÄ¿. ÔÚÄãÏë fork µÄÏîÄ¿µÄÊ×Ò³.ÕÒµ½ fork °´Å¥.µã»÷.
-2. ½ÓÏÂÀ´ÉèÖÃÄã±¾µØ²Ö¿â.
-A . ¿ËÂ¡ÏîÄ¿.
+å…³äºŽ Git çš„å‘½ä»¤è¯·å‚è§ Git æ‰‹å†Œ.
+çŽ°åœ¨æˆ‘ä»¬å·²ç»å¯ä»¥åˆ›å»ºäº†ä¸€ä¸ªåº“äº†.åˆ›å»ºäº†ä¸€ä¸ªæ–‡ä»¶,å¹¶ä¸”æäº¤äº†.å¹¶ä¸”æŠŠå®ƒæŽ¨å‘äº† github.
+æŽ¥ä¸‹æ¥æˆ‘ä»¬å°†åšä»€ä¹ˆå‘¢?
+ç¬¬ä¸‰èŠ‚: Fork A Repo
+æœ‰äº›æ—¶å€™ä½ å‘çŽ°è‡ªå·±æƒ³è¦ä¸ºåˆ«äººçš„é¡¹ç›®åšè´¡çŒ®.æˆ–è€…å¸Œæœ›æ¥ä½¿ç”¨åˆ«äººçš„é¡¹ç›®åšä¸ºè‡ªå·±çš„èµ·ç‚¹.ä¹Ÿå°±ç§°
+ä¹‹ä¸º Fork.
+1. Fork ä¸€ä¸ªé¡¹ç›®. åœ¨ä½ æƒ³ fork çš„é¡¹ç›®çš„é¦–é¡µ.æ‰¾åˆ° fork æŒ‰é’®.ç‚¹å‡».
+2. æŽ¥ä¸‹æ¥è®¾ç½®ä½ æœ¬åœ°ä»“åº“.
+A . å…‹éš†é¡¹ç›®.
 $ git clone git@github.com:username/projectname.git
-B. Ô¶³ÌÅäÖÃ.
-µ±Äã¿ËÂ¡ÁËÒ»¸öÏîÄ¿Ö®ºó.ËüÓÐÒ»¸öÄ¬ÈÏµÄ remote.½Ð×ö.origin.ÕâÊÇÖ¸ÄãÊÇÔÚ github ÉÏ fork µÄ.
-¶ø²»ÊÇÔÚÔ­À´µÄ²Ö¿â.ÎªÁË¸ú×ÙÔ­±¾µÄ²Ö¿â,ÄãÐèÒªÌí¼ÓÁíÒ»¸ö½Ð×ö upstream µÄÑ¡Ïî.
+B. è¿œç¨‹é…ç½®.
+å½“ä½ å…‹éš†äº†ä¸€ä¸ªé¡¹ç›®ä¹‹åŽ.å®ƒæœ‰ä¸€ä¸ªé»˜è®¤çš„ remote.å«åš.origin.è¿™æ˜¯æŒ‡ä½ æ˜¯åœ¨ github ä¸Š fork çš„.
+è€Œä¸æ˜¯åœ¨åŽŸæ¥çš„ä»“åº“.ä¸ºäº†è·Ÿè¸ªåŽŸæœ¬çš„ä»“åº“,ä½ éœ€è¦æ·»åŠ å¦ä¸€ä¸ªå«åš upstream çš„é€‰é¡¹.
 3.
 $cd projectname
 $ git remote add upstream git://github.com/username/projectname.git
 $ git fetch upstream
-½ÓÏÂÀ´.ÄãÒª×öµÄ¾ÍÊÇ.
-A. ÍÆËÍÌá½».
-Ò»µ©Äã×ö³öÁËÄ³Ð©Ìá½»µ½Äã fork µÄ²Ö¿âÀï,Äã¿ÉÄÜÏëÒª½«ÆäÍÆËÍµ½Äã fork µÄÏîÄ¿È¥.ÄãÒª×ö
-¾Í¸úÆ½³£µÄÏîÄ¿Ò»Ñù.
+æŽ¥ä¸‹æ¥.ä½ è¦åšçš„å°±æ˜¯.
+A. æŽ¨é€æäº¤.
+ä¸€æ—¦ä½ åšå‡ºäº†æŸäº›æäº¤åˆ°ä½  fork çš„ä»“åº“é‡Œ,ä½ å¯èƒ½æƒ³è¦å°†å…¶æŽ¨é€åˆ°ä½  fork çš„é¡¹ç›®åŽ».ä½ è¦åš
+å°±è·Ÿå¹³å¸¸çš„é¡¹ç›®ä¸€æ ·.
 4.
 $git push origin master
-½ÓÊÕ upstream ±ä¸ü.
-Èç¹ûÄã fork µÄÄÇ¸öÔ­À´µÄ²Ö¿â¸Ä±äÁË,Äã¿ÉÒÔÊ¹ÓÃÏÂÃæµÄÃüÁîÀ´¸üÐÂÄã fork µ½±¾µØµÄ²Ö¿â.
+æŽ¥æ”¶ upstream å˜æ›´.
+å¦‚æžœä½  fork çš„é‚£ä¸ªåŽŸæ¥çš„ä»“åº“æ”¹å˜äº†,ä½ å¯ä»¥ä½¿ç”¨ä¸‹é¢çš„å‘½ä»¤æ¥æ›´æ–°ä½  fork åˆ°æœ¬åœ°çš„ä»“åº“.
 $ git fetch upstream
 $ git merge upstream/master
-ºóÃæµÄ¸ü¶àÊ¹ÓÃÖ¸ÄÏÇë²Î¿¼Ïà¹ØÎÄµµ.ÀýÈç´´½¨·ÖÖ§µÈ.
+åŽé¢çš„æ›´å¤šä½¿ç”¨æŒ‡å—è¯·å‚è€ƒç›¸å…³æ–‡æ¡£.ä¾‹å¦‚åˆ›å»ºåˆ†æ”¯ç­‰.
